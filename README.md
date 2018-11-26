@@ -15,6 +15,13 @@ Browse the top used topics on GitHub
 ## 对比系列
 优秀得看和谁比了
 
+1. [PYPL](http://pypl.github.io/PYPL.html)  
+The more a language tutorial is searched, the more popular the language is assumed to be. 
+
+1. [TIOBE](https://www.tiobe.com/tiobe-index/)  
+Programming Community Index.
+
+
 1. [npm trend](https://www.npmtrends.com/)  
 Compare package download counts over time
 
@@ -23,8 +30,8 @@ See how technologies have trended over time based on use of their tags since 200
 
 1. [github star history](https://www.timqian.com/star-history/)
 
-1. [PYPL](http://pypl.github.io/PYPL.html)  
-The more a language tutorial is searched, the more popular the language is assumed to be. 
+
+
 
 ## 学习系列
 知一二然后知万物
