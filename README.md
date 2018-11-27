@@ -34,7 +34,7 @@ See how technologies have trended over time based on use of their tags since 200
 
 
 ## 学习系列
-知一二然后知万物
+知一二三然后知万物
 
 1. [python](https://github.com/vinta/awesome-python)
 
